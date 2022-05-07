@@ -1,5 +1,5 @@
 # EDA and Model building
-## Project: Predicting Boston Housing Prices
+## Project: Titanic - Machine Learning from Disaster
 
 ### Install
 
