@@ -40,7 +40,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The datsets are taken from the Kaggle Competition Tabular Playground Series - Jan 2022,time series prediction in which we are going to predict the sales of two fictitious kaggle stores in different countries and predict which store sells better in the future, the train dataset contains 26.3k data-points with 6 features with 'num_sold' being the target variable and test dataset contains 6570 datapoints with link here: [Kaggle](https://www.kaggle.com/competitions/tabular-playground-series-jan-2022/data).
+The datsets are taken from the Kaggle Competition Tabular Playground Series - Jan 2022, time series prediction in which we are going to predict the sales of two fictitious kaggle stores in different countries and predict which store sells better in the future, the train dataset contains 26.3k data-points with 6 features with 'num_sold' being the target variable and test dataset contains 6570 datapoints with link here: [Kaggle](https://www.kaggle.com/competitions/tabular-playground-series-jan-2022/data).
 
 **Features**
 1. `row_id`: row_id
