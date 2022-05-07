@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `TPS_1_2022_CatBoost.ipynb` notebook file. You will also be required to use the included `train.csv` and `test.csv` datasets file to successfully execute the code. 
+code is provided in the `MNIST_pytorch_NN.ipynb` notebook file. You will also be required to use the included `train.csv` and `test.csv` datasets file to successfully execute the code. 
 
 ### Run
 
