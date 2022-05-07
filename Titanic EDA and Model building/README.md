@@ -21,14 +21,14 @@ Template code is provided in the `Titanic_dataset_EDA_ML.ipynb` notebook file. Y
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Titanic EDA and Model building/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook Titanic_dataset_EDA_ML.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook Titanic_dataset_EDA_ML.ipynb
 ```
 or open with Juoyter Lab
 ```bash
